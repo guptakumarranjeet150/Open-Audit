@@ -9,8 +9,6 @@ out/
 build/
 
 # Environment variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -35,7 +33,6 @@ next-env.d.ts
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -49,3 +46,4 @@ logs/
 
 # Archive output
 archives/
+config.bat
